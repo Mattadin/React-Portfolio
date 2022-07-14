@@ -4,35 +4,50 @@ import IMG1 from '../../assets/portfolio-image-1.png';
 import IMG2 from '../../assets/portfolio-image-2.png';
 import IMG3 from '../../assets/portfolio-image-3.png';
 import IMG4 from '../../assets/portfolio-image-4.png';
-
+import IMG5 from '../../assets/portfolio-image-5.PNG';
+import IMG6 from '../../assets/portfolio-image-6.PNG';
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Insert title here',
-    github: 'https://github.com',
-    demo: 'https://github.com',
+    title: 'Dark Crawler Board Game',
+    github: 'https://github.com/Mattadin/dark-crawler',
+    demo: 'https://dark-crawler.herokuapp.com/',
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Insert title here',
-    github: 'https://github.com',
-    demo: 'https://github.com',
+    title: 'Weather Forecaster App',
+    github: 'https://github.com/Mattadin/Weather-Forecaster',
+    demo: 'https://mattadin.github.io/Weather-Forecaster/',
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Insert title here',
-    github: 'https://github.com',
-    demo: 'https://github.com',
+    title: 'GIPHY GAME',
+    github: 'https://github.com/Mattadin/Group-F-Project-1-GIPHY-Guessing-Game',
+    demo: 'https://wilgru.github.io/Group-F-Project-1-GIPHY-Guessing-Game/',
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Insert title here',
-    github: 'https://github.com',
-    demo: 'https://github.com',
+    title: 'Coding Quiz!',
+    github: 'https://github.com/Mattadin/Coding-Quiz',
+    demo: 'https://mattadin.github.io/Coding-Quiz/',
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: 'Password Generator',
+    github: 'https://github.com/Mattadin/Password-Generator',
+    demo: 'https://mattadin.github.io/Password-Generator/',
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: 'Day Planner',
+    github: 'https://github.com/Mattadin/Day-Planner',
+    demo: 'https://mattadin.github.io/Day-Planner/',
   },
 ];
 

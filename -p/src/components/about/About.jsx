@@ -23,26 +23,29 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>Add working experience</small>
+              <small>Coding Bootcamp at USYD</small>
             </article>
 
             <article className="about__card">
               <FiUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>Add clients</small>
+              <h5>Teamwork</h5>
+              <small>Collaborative project work</small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>Add projects number</small>
+              <small>Over 20 completed projects</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem
-            ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-            Lorem ipsumLorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsum
+            I'm Matthew, a graduate from the Coding Bootcamp at University of
+            Sydney. My experience is in fullstack web development but my
+            passions lie in backend development creating complex models and
+            database structures using either MySQL or MongoDB. My aspirations in
+            coding are simply to build spaces where users can connect and
+            interact.
           </p>
 
           <a href="#contact" className="btn btn-primary">

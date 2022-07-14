@@ -42,17 +42,16 @@ header {
 
 .profile {
     background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
-    height: 22rem;
+    width: 25rem;
+    height: 25rem;
     position:absolute;
     left: 50%;
     transform: translateX(-50%);
     margin-top: 4rem;
-    border-radius: 30rem 30rem 30rem 30rem;
+    border-radius: 30rem;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    padding: 0.5rem 1.5rem 1.5rem 1.5rem;
 }
-
 
 /* Scroll Option on Right */
 
